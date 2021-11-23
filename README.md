@@ -1,3 +1,3 @@
 # LEARNING NOTES
 
-> \*\*Hi, these are the COURSES NOTES
+> **Hi, these are the COURSES NOTES**
